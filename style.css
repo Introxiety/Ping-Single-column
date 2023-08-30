@@ -122,8 +122,8 @@ main {
 .full-width {
     min-width: 20rem;
     border-radius: 2rem;
-    max-height: 3rem;
-    padding: .8rem 2rem;
+    max-height: 5rem;
+    padding: 1rem 2rem;
 }
 
 /* Color */
@@ -159,7 +159,7 @@ span {
 }
 
 
-h2 span {
+h1 span {
     font-size: 1.5rem;
     font-weight: 300;
     color: hsl(0, 0%, 59%);
@@ -181,8 +181,8 @@ h2 span {
         font-size: 3rem;
     }
 
-    h2 span {
-        font-size: 3rem;
+    h1 span {
+        font-size: 2rem;
     }
 
     .form-direction {
